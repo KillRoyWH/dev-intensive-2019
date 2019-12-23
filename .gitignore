@@ -1,5 +1,4 @@
 # Built application files
-<<<<<<< HEAD
 build/
 *.apk
 *.ap_
@@ -44,7 +43,7 @@ google-services.json
 
 # Version control
 vcs.xml
-=======
+
 # User-specific configurations
 *.iml
 
@@ -66,4 +65,3 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 lint/reports/
->>>>>>> conflict
